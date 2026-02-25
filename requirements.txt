@@ -1,0 +1,16 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+motor==3.5.1
+pymongo==4.8.0
+Pillow==10.4.0
+transformers==4.44.2
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.4.1+cpu ; sys_platform == 'linux' and platform_machine == 'x86_64'
+torch==2.4.1 ; sys_platform != 'linux' or platform_machine != 'x86_64'
+pytest==8.3.3
+pytest-asyncio==0.24.0
+httpx==0.27.2
+mongomock-motor==0.0.34
+celery==5.4.0
+redis==5.0.8
