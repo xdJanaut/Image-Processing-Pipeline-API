@@ -1,6 +1,3 @@
-"""
-MongoDB connection and database setup using motor (async driver).
-"""
 
 import os
 import logging

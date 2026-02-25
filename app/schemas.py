@@ -1,6 +1,3 @@
-"""
-Pydantic response schemas matching the assessment specification format.
-"""
 
 from pydantic import BaseModel, Field, ConfigDict, field_serializer
 from typing import Optional

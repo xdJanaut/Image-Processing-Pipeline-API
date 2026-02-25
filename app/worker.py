@@ -1,6 +1,3 @@
-"""
-Background job queue for async image processing via Celery and Redis.
-"""
 
 import os
 import time

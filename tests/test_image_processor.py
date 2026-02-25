@@ -1,6 +1,3 @@
-"""
-Unit tests for the image processing module.
-"""
 
 import os
 import tempfile

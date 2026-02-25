@@ -1,9 +1,3 @@
-"""
-API endpoint integration tests.
-
-Uses mongomock-motor to mock MongoDB and patches the BLIP model
-so tests run fast without downloading model weights.
-"""
 
 import os
 import io

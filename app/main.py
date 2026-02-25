@@ -1,6 +1,3 @@
-"""
-Image Processing Pipeline API
-"""
 
 import os
 import uuid

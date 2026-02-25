@@ -1,6 +1,3 @@
-"""
-AI image captioning using Salesforce BLIP model from Hugging Face.
-"""
 
 import logging
 from PIL import Image

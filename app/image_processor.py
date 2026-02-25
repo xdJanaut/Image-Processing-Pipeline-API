@@ -1,6 +1,3 @@
-"""
-Image processing utilities: thumbnail generation, metadata extraction, EXIF parsing.
-"""
 
 import os
 import logging
